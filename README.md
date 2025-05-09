@@ -29,10 +29,3 @@ We build time-series models (SARIMAX, Prophet, XGBoost, LightGBM, hybrid approac
   `tarih` (date), `ürün`, `ürün besin değeri`, `ürün kategorisi`, `ürün fiyatı`, `ürün üretim yeri`, `market`, `şehir`.  
 - **testFeatures.csv**: Contains product–market–city combos for 2024 with the same feature columns (no price).
 
----
-
-## ⚙️ Environment Setup
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/osnn96/YZTA-Datathon.git
-   cd YZTA-Datathon
