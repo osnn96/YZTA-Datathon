@@ -1,7 +1,7 @@
 # YZTA Datathon Submission
 
 **Project:** Predicting Monthly Product Prices  
-**Authors:** Osman Sener, [Co-Author 1], [Co-Author 2]  
+**Authors:** Osman Şener Gürel, Meltem Orhan, Zeynep Atik, İsmail Temüroğlu, Fatma Aydoğdu  
 **Repository:** https://github.com/osnn96/YZTA-Datathon
 
 ---
